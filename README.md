@@ -1,19 +1,3 @@
-![](https://github.com/grpc/grpc-rust/raw/master/.github/assets/tonic-banner.svg?sanitize=true)
-
-
-A rust implementation of [gRPC], a high performance, open source, general
-RPC framework that puts mobile and HTTP/2 first.
-
-> **Note**: tonic's [master](https://github.com/grpc/grpc-rust) branch is
-> currently preparing breaking changes. For the most recently *released* code,
-> look to the [0.14.x branch](https://github.com/grpc/grpc-rust/tree/v0.14.x).
-
-[`tonic`] is a gRPC over HTTP/2 implementation focused on high performance, interoperability, and flexibility. This library was created to have first class support of async/await and to act as a core building block for production systems written in Rust.
-
-[![Crates.io](https://img.shields.io/crates/v/tonic)](https://crates.io/crates/tonic)
-[![Documentation](https://docs.rs/tonic/badge.svg)](https://docs.rs/tonic)
-[![Crates.io](https://img.shields.io/crates/l/tonic)](LICENSE)
-
 
 [Examples] | [Website] | [Docs] | [Chat][discord]
 
